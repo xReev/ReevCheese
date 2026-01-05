@@ -1,2 +1,6 @@
-Reev major update.
-Use new loader to get latest DLL file.
+**changelog:** `01/05/2026` 
+
+## Skins / Inventory
+- **Fixed Reload Items Duplicating Items** - Reloading your items will no longer create duplicates. If an item is already in your inventory, it will be skipped and you’ll get a message.
+- **Improved Add Item Duplicate Check** - If you try to add the same item again, Reev now tells you it’s already added (no need to add again).
+- **Added “My Items” Item Options Popup** - You can now click an item in **My Items** to open a clean options panel with actions, including **Remove** (removes the item from your inventory + saved items).
