@@ -1,7 +1,8 @@
 **changelog:** `01/05/2026` 
 
-## Legitbot
-- **Fixed Legit Silent Aim Getting Overwritten** - Added a per-tick protection flag so post-legitbot systems don’t overwrite psilent/silentaim command angles.
-
-## Visuals / ESP
-- **Fixed ESP Persisting After Leaving Match** - ESP no longer stays visible in the lobby.
+## Menu / Languages
+- **Added Spanish + Russian Menu Support** - You can now use the menu in **Español** or **Русский**.
+- **More Text Is Now Translated** - More parts of the menu now follow your selected language (labels, buttons, and common messages).
+- **Tooltips Now Translate** - Hover tooltips now show in your chosen language instead of only English.
+- **Global Search Translated** - The search window now shows translated text (search prompt, columns, “no results”).
+- **Radio Section Translated** - Radio tab text like “Now Playing”, “Loading”, “Search”, “Favorites”, and buttons are now translated.
