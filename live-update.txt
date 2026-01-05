@@ -1,1 +1,2 @@
-Reev has updated it's stealth detection! Avoid triggering VAC-LIVE!
+Reev is currently reported to be detected by VAC, VAC-LIVE. Please use on an alternative!
+
