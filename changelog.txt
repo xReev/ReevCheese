@@ -1,13 +1,22 @@
-> **changelog:** `01/06/2026 - 12:20 PM [GMT+01:00]` 
+> **changelog:** `01/06/2026 - 10:38 AM [GMT+01:00]` 
 > 
-> ## Grenade Prediction (Trajectory Line)
-> - **New “Thin” Line Style** - The default grenade prediction line is now a clean, thin, smooth line that’s easier to read.
-> - **Only Shows While Aiming** - The prediction line only appears when you’re actually preparing a throw (aiming), not all the time.
-> - **Instantly Disappears After Throw** - The line stops drawing the moment you throw the grenade (no leftover line after release).
-> - **Cleaner + Faster** - Reduced extra visual clutter and optimized drawing so it uses less performance.
+> ## Visuals / Bullet Tracers
+> - **New “Zapper Tracers”** - Added a new electric-style tracer that looks like a zig-zag lightning bolt, making shots easier to see.
+> - **New Tracer Styles** - You can now pick different tracer looks:
+>   - Default
+>   - Zapper (electric)
+>   - Beam (laser)
+>   - Pulse (pulsing glow)
+>   - Rainbow (color cycling)
+>   - Plasma (energy style)
+> - **Separate Settings** - Local, Enemy, and Team tracers can each have their own style and color.
+> - **Simple Extra Sliders (only when needed)**
+>   - Zapper/Lightning: **Segments** + **Amplitude** (controls how “zig-zag” it is)
+>   - Beam: **Width** (controls how thick it is)
+> - **Performance Friendly** - Limits are in place to keep things smooth and avoid FPS drops.
 > 
-> ## Grenade Prediction Effect (On-Grenade Indicator)
-> - **Smaller Effect** - The on-grenade indicator is now smaller and less intrusive.
-> - **One-Time Spawn Per Throw** - The effect is created when you throw the grenade and stays with that grenade.
-> - **Correct Expiration** - The effect now disappears right when the throwable itself expires (no late or early expiration).
-> - **Timer Behavior Improved** - The timer only shows while time is remaining (it won’t stay stuck showing `0.0`).
+> ## How To Enable
+> - Menu → **World** → **Effects**
+> - Turn on **Local Bullet Tracers** (and/or Enemy/Team)
+> - Pick a **Tracer Style**
+> - Adjust sliders if your selected style has them
