@@ -1,13 +1,18 @@
-**changelog:** `01/06/2026 - 10:38 AM [GMT+01:00]` 
-
-## LUA / Script Library
-- **New Card Layout** - Scripts are now shown as clean “cards” with the script title and author, instead of the old list style.
-- **Clearer Status** - Each script card shows a small status dot so it’s easier to tell what’s loaded / not loaded at a glance.
-- **Better Search Bar** - Search no longer overlaps the buttons, and works smoothly with the new layout.
-- **New Header Buttons** - Refresh, Open Folder, and Clear Search are now properly placed and readable.
-- **Folder Button Compatibility** - “Open scripts folder” is now more reliable across different PCs (opens correctly for everyone).
-
-## LUA / Script Details
-- **Cleaner Details Panel** - Script info is now easier to read with a more organized layout.
-- **Improved Actions** - Load / Reload / Unload buttons are clearer and easier to use.
-- **Copy Path Button** - Added a quick button to copy the script path.
+> **changelog:** `01/06/2026 - 11:27 AM [GMT+01:00]` 
+> 
+> ## LUA / UI Polish
+> - **Cleaner Spacing** - Added extra padding so the Lua panels no longer touch the menu borders.
+> 
+> ## CONFIG / Local Configs
+> - **Cleaner Layout** - The Config tab has a more modern, organized layout with better spacing and readability.
+> - **Search + Refresh Bar** - Search and Refresh are now aligned properly at the top for a smoother experience.
+> - **Clearer Selected Config** - The selected config name is shown more clearly, with an “Unsaved” indicator when you changed settings.
+> - **Delete Confirmation Popup** - Deleting a config now uses a proper confirmation popup (safer + cleaner than the old inline warning).
+> - **Export / Import (Clipboard)** - You can now Export a config to your clipboard and Import it back directly from the clipboard (easy sharing).
+> 
+> ## CONFIG / Public Configs
+> - **Improved Toolbar** - Search and Refresh are aligned and more consistent, making the page easier to use.
+> 
+> ## MISC / Custom Models
+> - **Open Models Folder Fix** - “Open Models Folder” is now more reliable across different PCs/installs.
+> - **Better Path Detection** - The cheat now finds the correct CS2 models folder path more consistently, and creates the folder if needed before opening it.
