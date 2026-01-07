@@ -1,17 +1,17 @@
-> **changelog:** `01/07/2026 - 4:16 PM [GMT+01:00]` 
+> **changelog:** `01/07/2026 - 5:28 PM [GMT+01:00]` 
 > 
-> ## Keybind List HUD (NEW)
-> - **New Keybind Display** - A clean on-screen panel that shows all your active keybinds while playing.
-> - **Always Visible** - The keybind list stays on screen whenever you have keybinds configured, so you always know what's active.
-> - **On/Off Status** - Each keybind shows "On" or "Off" so you can easily see what's currently active at a glance.
-> - **Mode Display** - Shows whether each keybind is set to "Hold", "Toggle", or "Always" on the right side.
-> - **Matches Your Theme** - The panel automatically uses your menu's accent color, so it matches your watermark and indicators.
-> - **Draggable** - You can move the keybind list anywhere on screen by dragging it when the menu is open.
+> ## Menu Appearance
+> - **Menu Glow Fixed** - The glow effect around the menu now works properly, giving the menu a nice accent-colored glow.
+> - **Flying Logos Improved** - Background flying "R" letters are now much more visible with a soft glow effect, and there are more of them for a fuller look.
+> - **Cleaner Settings** - Removed an empty "Menu Style" section that had no options.
 > 
-> ## Keybinds Tracked
-> - **Legitbot** - Aimbot, Silent Aim, Triggerbot
-> - **Visuals** - Third Person
-> - **Movement** - Edge Jump, Edge Bug, Fake Duck
+> ## Language Support
+> - **LUA Tab Translated** - All text in the Script Library and Script Details panels now supports Russian, Spanish, and Chinese.
+> - **Config Tab Translated** - All text in the Config List and Config Actions panels now supports Russian, Spanish, and Chinese.
+> - **Full Coverage** - Buttons, placeholders, messages, and labels are all properly translated when you switch languages.
 > 
-> ## How to Enable
-> - Go to **Misc → Overlay** and enable **"Keybinds"** in the Overlay options.
+> ## Translations Added
+> - Script Library, Script Details, search bars, and all script-related messages
+> - Config List, Config Actions, create/save/load/delete buttons
+> - Confirmation dialogs (delete config, unload cheat)
+> - All placeholder text and empty state messages
