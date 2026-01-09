@@ -1,7 +1,14 @@
-changelog: 01/08/2026 - 05:55 PM [GMT+01:00] 
+changelog: 01/09/2026 - 07:33 AM [GMT+01:00] 
 
-Triggerbot Enhancements
-Smarter Timing - The triggerbot now has a "Delay Jitter" setting that adds small random variations to make shots feel more natural and human-like.
-Reaction Floor - New minimum reaction time setting so the bot never shoots faster than humanly possible, even with low delay values.
-Target Confirmation - New "Visibility Ticks" option makes the triggerbot wait a moment before shooting, reducing accidental shots when quickly panning past enemies.
-Shot Spacing - New setting to limit how fast the triggerbot can fire, giving you more control over fire rate.
+Menu - User Profile
+Discord Avatar - Your Discord profile picture now shows in the menu header as a circular avatar.
+Username Display - Your Discord username appears next to your avatar in the top-right of the menu.
+Fallback Avatar - If your avatar can't load, a colored circle with your first initial is shown instead.
+Animated Avatar Support - Animated Discord profile pictures are now supported (converted to static for performance).
+
+Watermark
+Username in Watermark - The watermark now shows "REEV | YourUsername" so you can see who's logged in at a glance.
+
+Notes
+You may need to re-login with the loader for your avatar to appear.
+Your profile info is securely stored locally and fetched from Discord.
