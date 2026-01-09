@@ -1,14 +1,10 @@
-changelog: 01/09/2026 - 07:33 AM [GMT+01:00] 
+changelog: 01/09/2026 - 09:07 AM [GMT+01:00] 
 
-Menu - User Profile
-Discord Avatar - Your Discord profile picture now shows in the menu header as a circular avatar.
-Username Display - Your Discord username appears next to your avatar in the top-right of the menu.
-Fallback Avatar - If your avatar can't load, a colored circle with your first initial is shown instead.
-Animated Avatar Support - Animated Discord profile pictures are now supported (converted to static for performance).
-
-Watermark
-Username in Watermark - The watermark now shows "REEV | YourUsername" so you can see who's logged in at a glance.
-
-Notes
-You may need to re-login with the loader for your avatar to appear.
-Your profile info is securely stored locally and fetched from Discord.
+Discord Game Activity Tracker (NEW!)
+Live Round Updates - Your game activity is now automatically shared to Discord after each round ends.
+Kill & Death Tracking - See who you killed and who killed you, including weapon used and headshot indicators 🎯.
+Map & Mode Display - Shows what map you're playing on and the game mode (Competitive, Casual, Deathmatch, etc.).
+Score Tracking - Displays your team's score vs enemy team score.
+Player Names - Full player names are shown for both your kills and deaths.
+Smart Formatting - Round updates appear as clean Discord embeds with color-coded results (green = positive K/D, red = negative).
+Automatic & Silent - Works in the background without any setup needed - just play and your stats get posted!
