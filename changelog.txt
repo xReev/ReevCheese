@@ -1,13 +1,7 @@
-changelog: 10/01/2026 - 06:34 AM [GMT+01:00]
+changelog: 10/01/2026 - 08:17 AM [GMT+01:00]
 
-Bullet Tracers (World Tab > Effects)
-Added Visibility Slider - Control tracer transparency from 10-100%.
-Improved Stability - Fixed crashes when tracers were rendered during map changes.
-
-Snow Effect
-Disabled - Removed snow effect toggle from menu UI due to performance issues.
-
-Shared Weapon Skins  (Still under development)
-New Feature - Reev users can now see each other's weapon skins in-game.
-Automatic Sync - Skins are shared when joining a match via Discord tracker.
-Performance Optimized - Throttled skin application to prevent lag.
+Crash Handler (Internal)
+New Feature - Automatic crash detection and reporting system.
+Call Stack Capture - Full stack trace with symbol resolution sent to Discord.
+Blocks Execution - Game pauses on crash, sends report, then closes gracefully.
+Discord Integration - Crash reports posted to discord channel ⁠reev-users-crash-log  with user info.
