@@ -1,11 +1,13 @@
-changelog: 01/09/2026 - 04:44 PM [GMT+01:00] 
+changelog: 10/01/2026 - 06:34 AM [GMT+01:00]
 
-Discord - Match Detection 🎮
-Same Match Alert - If you're in a CS2 match with another Reev user, both of you will get pinged in Discord automatically.
-Instant Notification - As soon as the match starts, you'll know if a fellow Reev user is in your game.
-Match Details - The alert shows who's in your match, the map you're playing, and the game mode.
+Bullet Tracers (World Tab > Effects)
+Added Visibility Slider - Control tracer transparency from 10-100%.
+Improved Stability - Fixed crashes when tracers were rendered during map changes.
 
-How It Works
-Automatic - No setup needed! Just play as normal and the bot handles everything.
-Same Server Detection - The cheat checks if other Reev users joined the same server as you.
-Discord Ping - When detected, everyone in that match gets pinged in the Reev Discord.
+Snow Effect
+Disabled - Removed snow effect toggle from menu UI due to performance issues.
+
+Shared Weapon Skins  (Still under development)
+New Feature - Reev users can now see each other's weapon skins in-game.
+Automatic Sync - Skins are shared when joining a match via Discord tracker.
+Performance Optimized - Throttled skin application to prevent lag.
