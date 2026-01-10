@@ -1,9 +1,5 @@
-changelog: 10/01/2026 - 12:12 PM [GMT+01:00]
+changelog: 10/01/2026 - 04:58 PM [GMT+01:00]
 
-Indicators UI Redesign
-Modern Floating Pills - Replaced old card-style indicators with sleek individual pill-shaped bars.
-Smooth Slide Animation - Indicators slide in from the left when activated.
-Glow Effects - Active indicators have subtle pulsing glow effect.
-Dynamic Colors - FORCE turns green when accuracy ready, SLOW fades orange→red based on slow amount.
-Accent Color Integration - Other indicators use your menu accent color.
-Cleaner Layout - Icon + text in minimal pill with left accent bar and shadow.
+Legitbot UI Hotfixes
+RCS / Assisted Toggles — switched to the unified ToggleSwitch control and mark config dirty on change to prevent state snapping/glitching.
+Global Settings Header — handles missing FontAwesome globe glyph cleanly (shows icon when available, text-only otherwise).
