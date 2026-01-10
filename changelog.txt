@@ -1,9 +1,9 @@
-changelog: 10/01/2026 - 12:00 PM [GMT+01:00]
+changelog: 10/01/2026 - 12:12 PM [GMT+01:00]
 
-Legitbot - Aimbot Subtab Rework
-New Category-Based UI - Simplified aimbot settings organized by weapon category (Pistol, Rifle, SMG, Sniper, Shotgun, LMG).
-Weapon Icons - Each category displays actual CS2 weapon silhouettes using GunIcons font.
-Share Across Categories - Toggle to use same settings for all weapons, or customize per-category.
-Per-Category Settings - FOV, Smoothing, Hitbox, RCS, and Assisted Recoil now configurable per weapon type.
-Cleaner Layout - Removed confusing "override" system, settings apply directly to selected category.
-Config Compatible - Existing configs will load correctly with new system.
+Indicators UI Redesign
+Modern Floating Pills - Replaced old card-style indicators with sleek individual pill-shaped bars.
+Smooth Slide Animation - Indicators slide in from the left when activated.
+Glow Effects - Active indicators have subtle pulsing glow effect.
+Dynamic Colors - FORCE turns green when accuracy ready, SLOW fades orange→red based on slow amount.
+Accent Color Integration - Other indicators use your menu accent color.
+Cleaner Layout - Icon + text in minimal pill with left accent bar and shadow.
