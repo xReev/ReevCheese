@@ -1,7 +1,7 @@
-changelog: 10/01/2026 - 08:17 AM [GMT+01:00]
+changelog: 10/01/2026 - 08:28 AM [GMT+01:00]
 
-Crash Handler (Internal)
-New Feature - Automatic crash detection and reporting system.
-Call Stack Capture - Full stack trace with symbol resolution sent to Discord.
-Blocks Execution - Game pauses on crash, sends report, then closes gracefully.
-Discord Integration - Crash reports posted to discord channel ⁠reev-users-crash-log  with user info.
+Localization & Fonts
+Fixed Font Display - Added Latin Extended glyph ranges for Polish, Portuguese, Romanian, Spanish.
+Chinese Support - Added CJK font merge to overlay, ESP, and UI fonts.
+Russian Support - Cyrillic glyph ranges properly included in all fonts.
+Polish Translation - Updated and improved Polish language strings. (Credit goes to @Sepeix & Ukrainian immigrant that lives in poland @Plague. )
