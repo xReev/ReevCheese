@@ -1,6 +1,6 @@
-changelog: 11/01/2026 - 10:31 PM [GMT+01:00] 
+changelog: 11/01/2026 - 10:43 PM [GMT+01:00] 
 
-Glow Overlay - Added UI controls for the glow overlay effect. This renders a pulsing glow on top of your chams for that extra premium look.
-Visible Glow Overlay (toggle + color)
-Invisible Glow Overlay (toggle + color)
-Glow Pulse Speed slider
+UI / Color Picker
+Opaque Picker Popup - The color picker now opens on a solid dark panel with rounded corners and a subtle border, so it no longer shows the game behind it.
+Clean Layout - Added comfortable padding and spacing for a smoother, higher-quality look while picking colors.
+Fix - A bug where you would selected a cornered color but it would pick a different color.
