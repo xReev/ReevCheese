@@ -1,6 +1,7 @@
-changelog: 11/01/2026 - 10:43 PM [GMT+01:00] 
+changelog: 12/01/2026 - 11:26 AM [GMT+01:00] 
 
-UI / Color Picker
-Opaque Picker Popup - The color picker now opens on a solid dark panel with rounded corners and a subtle border, so it no longer shows the game behind it.
-Clean Layout - Added comfortable padding and spacing for a smoother, higher-quality look while picking colors.
-Fix - A bug where you would selected a cornered color but it would pick a different color.
+Visuals / Player ESP
+New: Flashed Eye Indicator - A small eye icon now appears near a player's head when they're flashed. The icon gets brighter the more flashed they are, and fades out as the flash wears off.
+Enemy & Team Support - You can toggle the flashed eye separately for enemies and teammates, so you always know who's blind.
+Custom Color - Pick your own color for the eye icon (separate colors for enemy and team).
+Adjustable Size - Slider to make the eye icon bigger or smaller (8px to 30px).
