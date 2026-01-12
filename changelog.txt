@@ -1,6 +1,10 @@
-changelog: 12/01/2026 - 2:34 PM [GMT+01:00] 
+changelog: 12/01/2026 - 3:40 PM [GMT+01:00] 
 
-Performance / FPS
-Smoother FPS - Reduced stutters and big FPS drops during gameplay.
-Faster Visuals (ESP) - Optimized how visuals are processed and drawn, especially when many players/entities are on screen.
-Less Background Work - Overlays now only run when enabled to avoid wasting FPS.
+Legitbot / Triggerbot
+New Magnet Triggerbot - Triggerbot now slightly “pulls” your shot toward a nearby enemy when your crosshair is close (more natural than a strict pixel-perfect trigger).
+More Reliable Shots - Improved how attack inputs are sent so shots register more consistently.
+Smarter Targeting - Picks the closest target within a small FOV instead of only firing on a perfect crosshair trace.
+Simplified Settings - Triggerbot options are now cleaner and easier to understand.
+
+UI / Indicators
+Legit Indicators Update - Indicators are now focused on legitbot features (Legitbot, Triggerbot, Silent Aim, Auto Stop, RCS, Assisted Recoil) instead of rage-related indicators.
