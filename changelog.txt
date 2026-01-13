@@ -1,10 +1,11 @@
-changelog: 12/01/2026 - 3:40 PM [GMT+01:00] 
+changelog: 13/01/2026 - 1:01 PM [GMT+01:00] 
 
-Legitbot / Triggerbot
-New Magnet Triggerbot - Triggerbot now slightly “pulls” your shot toward a nearby enemy when your crosshair is close (more natural than a strict pixel-perfect trigger).
-More Reliable Shots - Improved how attack inputs are sent so shots register more consistently.
-Smarter Targeting - Picks the closest target within a small FOV instead of only firing on a perfect crosshair trace.
-Simplified Settings - Triggerbot options are now cleaner and easier to understand.
+Grenade Helper (BETA)
+New Nade Helper Feature - Added a brand new grenade helper system to help you throw perfect smokes, flashes, molotovs and HE grenades.
+Aim Assist - When you pull out a grenade near a saved lineup spot, the crosshair will guide you to the correct throwing position and angle.
+Visual Guides - See on-screen indicators showing you exactly where to stand and where to aim.
+Multiple Throw Types - Supports normal throws, jump throws, and run throws.
+Map-Based Lineups - Lineups are saved per-map, so your spots carry over between sessions.
+Easy to Use - Just equip a grenade and the helper will show you nearby lineup spots automatically.
 
-UI / Indicators
-Legit Indicators Update - Indicators are now focused on legitbot features (Legitbot, Triggerbot, Silent Aim, Auto Stop, RCS, Assisted Recoil) instead of rage-related indicators.
+Note: This feature is currently in BETA and still under active development. More lineup spots and improvements coming soon!
