@@ -1,4 +1,7 @@
-> **changelog:** `14/01/2026 - 8:45 PM [GMT+01:00]` 
-> 
-> ## Visuals / Ambience
-> - **Ambience Colors Master Toggle** - The **World Color** checkbox is now a master switch for ambience colors (World + Lighting + Sun + Clouds + Sky). Turning it off disables all of these.
+
+changelog: 14/01/2026 - 9:30 PM [GMT+01:00] 
+
+New Features
+Menu Size Option - You can now scale the entire menu bigger or smaller! Find it in Menu → Settings under "Menu Size" (range: 0.75x to 1.50x).
+
+Note: This only affects the menu itself - overlays like Watermark and Spectators stay the same size.
