@@ -1,7 +1,12 @@
+changelog: 15/01/2026 - 1:06 PM [GMT+01:00] 
 
-changelog: 14/01/2026 - 9:30 PM [GMT+01:00] 
+Stability & Crash Fixes
+Major Stability Improvements - Fixed multiple crash issues that could occur during gameplay.
+Safer Config Loading - Loading configs (especially older ones) no longer causes crashes.
+Fixed Legitbot Crashes - Resolved rare crashes when using legitbot in certain situations.
+Fixed Particle Effect Crashes - World particle effects no longer crash when switching maps.
+Fixed Trace Crashes - Triggerbot no longer crash when targeting certain players.
+Fixed KnifeBot/ZeusBot Crashes - Auto knife and zeus bot no longer crash when targeting enemies.
+Fixed Hitlog Crashes - Hit notifications no longer crash when hitting players with special characters in their names.
 
-New Features
-Menu Size Option - You can now scale the entire menu bigger or smaller! Find it in Menu → Settings under "Menu Size" (range: 0.75x to 1.50x).
-
-Note: This only affects the menu itself - overlays like Watermark and Spectators stay the same size.
+Overall the cheese is now much more stable and resistant to random crashes.
