@@ -1,11 +1,5 @@
-changelog: 16/01/2026 - 2:41 PM [GMT+01:00] 
+changelog: 16/01/2026 - 4:36 PM [GMT+01:00] 
 
-Legitbot Improvements
-Stronger Linear Aim - Linear smoothing now locks faster with improved tracking while moving.
-More Human Feel - Human smoothing now reacts more naturally with refined steps and jitter.
-Better Moving Accuracy - Targets are predicted slightly to keep shots accurate during motion.
-
-Stability & Chams Fixes
-Chams Crash Fixes - Added extra safety checks so colored models don’t crash when game data is missing.
-Safer On‑Shot & Backtrack Chams - Materials now fall back safely to prevent rare rendering errors.
-Scene Safety - Chams now skip rendering if required scene data isn’t ready.
+Legitbot RCS Fix
+No More Flicks While Releasing Fire - RCS now only compensates while you are actively shooting.
+More Consistent Hits - Prevents leftover recoil smoothing from pulling off-target between shots.
