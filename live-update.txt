@@ -1,3 +1,4 @@
-Avoud using: Triggerbot, RCS, AWALL, Strafe. (VAC-LIVE)
+Avoid using: Triggerbot, RCS, AWALL, Strafe. (VAC-LIVE)
+
 
 
