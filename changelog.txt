@@ -1,8 +1,11 @@
+changelog: 16/01/2026 - 2:41 PM [GMT+01:00] 
 
-changelog: 15/01/2026 - 9:41 PM [GMT+01:00] 
+Legitbot Improvements
+Stronger Linear Aim - Linear smoothing now locks faster with improved tracking while moving.
+More Human Feel - Human smoothing now reacts more naturally with refined steps and jitter.
+Better Moving Accuracy - Targets are predicted slightly to keep shots accurate during motion.
 
-Menu Refresh
-Visuals Tab Rework - Visuals is now organized into clearer sections for a more premium layout.
-World Subtab - Environment, Tracers, Grenades, and Hitmarkers are now grouped cleanly.
-ESP Subtab - Player ESP and Indicators/Effects sit together, with Colored Models on the side.
-Local Subtab - View, Scope & Recoil, Camera, and HUD/Damage are split into focused panels.
+Stability & Chams Fixes
+Chams Crash Fixes - Added extra safety checks so colored models don’t crash when game data is missing.
+Safer On‑Shot & Backtrack Chams - Materials now fall back safely to prevent rare rendering errors.
+Scene Safety - Chams now skip rendering if required scene data isn’t ready.
