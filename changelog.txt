@@ -1,7 +1,5 @@
-changelog: 17/01/2026 - 12:57 PM [GMT+01:00] 
+changelog: 17/01/2026 - 02:12 PM [GMT+01:00] 
 
-Performance & FPS Improvements
-Smoother Grenade Prediction - grenade path calculations now reuse memory, cutting stutters during heavy nade spam.
-Faster ESP Text - weapon labels and FOV circles are cached so they don’t recalc every frame.
-Lean Visual Updates - world color, particle effects updates are rate-limited for steadier FPS.
-Skeleton Reuse - ESP now reuses bone data already fetched for the player, reducing extra lookups.
+Overlay Menu Cleanup
+Clearer Overlay Sections - the Overlay subtab is now split into tidy panels (widgets, sizing, radar, round info) so settings are faster to find.
+Same Features, Cleaner Layout - all existing overlay toggles stay the same, just organized into cleaner groups for easier browsing.
