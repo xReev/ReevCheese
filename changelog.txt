@@ -1,6 +1,7 @@
-changelog: 17/01/2026 - 02:27 AM [GMT+01:00] 
+changelog: 17/01/2026 - 12:57 PM [GMT+01:00] 
 
-Grenade Indicator Timer Ring
-Cleaner Timer Look - grenade indicator now uses a circular timer ring instead of a floating pill.
-Less Screen Clutter - keeps all info tight around the marker for faster reads.
-Safer Timer Rendering - extra validation prevents rare crashes when timing data is invalid.
+Performance & FPS Improvements
+Smoother Grenade Prediction - grenade path calculations now reuse memory, cutting stutters during heavy nade spam.
+Faster ESP Text - weapon labels and FOV circles are cached so they don’t recalc every frame.
+Lean Visual Updates - world color, particle effects updates are rate-limited for steadier FPS.
+Skeleton Reuse - ESP now reuses bone data already fetched for the player, reducing extra lookups.
