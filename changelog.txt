@@ -1,5 +1,11 @@
-changelog: 17/01/2026 - 02:12 PM [GMT+01:00] 
+Open Folder Button Works - clicking the button now guarantees the folder is ready before opening.
+Reev
+ — 6:45 PM
+changelog: 18/01/2026 - 06:45 PM [GMT+01:00] 
 
-Overlay Menu Cleanup
-Clearer Overlay Sections - the Overlay subtab is now split into tidy panels (widgets, sizing, radar, round info) so settings are faster to find.
-Same Features, Cleaner Layout - all existing overlay toggles stay the same, just organized into cleaner groups for easier browsing.
+Enemy Body Chams
+Dead Body Chams Stay On - enemy chams now remain visible on dead bodies when enemy chams are enabled.
+Cleaner Effects - on-shot and backtrack chams only apply to living enemies.
+
+World Effects Particles Restored
+Weather Effects Are Back - snow can be enabled again without the old crash risk.
