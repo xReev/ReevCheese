@@ -1,8 +1,5 @@
-changelog: 18/01/2026 - 06:45 PM [GMT+01:00] 
+changelog: 18/01/2026 - 07:26 PM [GMT+01:00] 
 
-Enemy Body Chams
-Dead Body Chams Stay On - enemy chams now remain visible on dead bodies when enemy chams are enabled.
-Cleaner Effects - on-shot and backtrack chams only apply to living enemies.
-
-World Effects Particles Restored
-Weather Effects Are Back - snow can be enabled again without the old crash risk.
+Legitbot Target Lock
+Target Lock Toggle - added a switch so legitbot can stick to the first target in your FOV.
+No More Target Switching - it now stays locked until the target leaves your FOV or becomes invalid.
