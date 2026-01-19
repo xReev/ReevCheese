@@ -1,8 +1,5 @@
+changelog: 19/01/2026 - 11:50 PM [GMT+01:00] 
 
-changelog: 19/01/2026 - 08:12 PM [GMT+01:00] 
-
-Legitbot Target Stability
-No More FOV Flicker - aiming stays steady when a target is perfectly centered in your FOV.
-Smoother Target Lock - lock now ignores tiny one-tick hiccups so it doesn’t snap away.
-Less Hitbox Jumping - reduces micro-switching between hitboxes to keep aim consistent.
-Legitbot Menu - fixed the per-weapon RCS selector state so the menu stays stable.
+JumpBug Rework
+Improved Landing Timing - JumpBug now uses a precise downward ground trace to trigger at the right moment while falling.
+Cleaner Input Sequence - duck/jump presses and releases are sequenced within the tick for more consistent hits.
