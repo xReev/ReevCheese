@@ -1,5 +1,8 @@
-changelog: 18/01/2026 - 07:57 PM [GMT+01:00] 
 
-Autobuy Grenade Selection
-Grenade Types List - pick exactly which grenades to auto-buy when the Grenades option is enabled.
-Old Behavior Preserved - all grenade types are selected by default so existing configs still auto-buy everything.
+changelog: 19/01/2026 - 08:12 PM [GMT+01:00] 
+
+Legitbot Target Stability
+No More FOV Flicker - aiming stays steady when a target is perfectly centered in your FOV.
+Smoother Target Lock - lock now ignores tiny one-tick hiccups so it doesn’t snap away.
+Less Hitbox Jumping - reduces micro-switching between hitboxes to keep aim consistent.
+Legitbot Menu - fixed the per-weapon RCS selector state so the menu stays stable.
