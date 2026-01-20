@@ -1,5 +1,7 @@
-changelog: 19/01/2026 - 11:50 PM [GMT+01:00] 
+changelog: 20/01/2026 - 04:42 PM [GMT+01:00] 
 
-JumpBug Rework
-Improved Landing Timing - JumpBug now uses a precise downward ground trace to trigger at the right moment while falling.
-Cleaner Input Sequence - duck/jump presses and releases are sequenced within the tick for more consistent hits.
+Legit Aim Direction Fix
+No More Wrong-Way Snaps - aiming now resets correctly when you press the aim key again, so it won’t swing to the opposite side of the target.
+
+OOF Arrow Direction Fix
+Correct Direction - off-screen arrows now point toward the enemy and stay pinned to their screen edge position instead of circling when you move.
