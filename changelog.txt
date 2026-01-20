@@ -1,7 +1,6 @@
-changelog: 20/01/2026 - 04:42 PM [GMT+01:00] 
+changelog: 20/01/2026 - 09:53 PM [GMT+01:00] 
 
-Legit Aim Direction Fix
-No More Wrong-Way Snaps - aiming now resets correctly when you press the aim key again, so it won’t swing to the opposite side of the target.
-
-OOF Arrow Direction Fix
-Correct Direction - off-screen arrows now point toward the enemy and stay pinned to their screen edge position instead of circling when you move.
+Custom Model Safety
+Extra Model Checks - bad or malformed model names are now filtered out before they can be applied.
+File Existence Guard - missing model files are skipped so invalid installs won’t crash the game.
+Safe Apply Fallback - if a model fails to load, the change is cancelled to keep you stable.
