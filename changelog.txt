@@ -1,6 +1,6 @@
-changelog: 20/01/2026 - 09:53 PM [GMT+01:00] 
+changelog: 21/01/2026 - 01:37 PM [GMT+01:00] 
 
-Custom Model Safety
-Extra Model Checks - bad or malformed model names are now filtered out before they can be applied.
-File Existence Guard - missing model files are skipped so invalid installs won’t crash the game.
-Safe Apply Fallback - if a model fails to load, the change is cancelled to keep you stable.
+FPS Boosts (Always-On)
+Smoother Gameplay - the cheese now skips extra background checks when visuals are turned off.
+Faster Nade Helper - lineups are reused and only refreshed when you change packs or filters.
+Less Repeated Work - particle effects won’t update twice in the same frame.
